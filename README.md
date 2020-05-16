@@ -5,7 +5,7 @@ _Captain's Log..._
 
 Logex is a small, simple bash script that brings a line-entry log app to your terminal.
 
-
+![](logex_demo.gif)
 
 Usage: `./logex.sh -f mynotes.log -u myname`
 
